@@ -17,7 +17,7 @@ header {
   display: flex;
   justify-content: space-between;
   height: 3rem;
-  background-color: rgb(226, 131, 146);
+  background-color: lime;
   align-items: center;
 }
 
